@@ -39,10 +39,10 @@
               "client_type": 3
             },
             {
-              "client_id": "812718640518-vrutflrubptfj1inl997k1rioe3rq1k6.apps.googleusercontent.com",
+              "client_id": "812718640518-f0s0ihsc9mqlak61o433nt8qu6ch03tl.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.challenges.app"
+                "bundle_id": "com.example.authDemo"
               }
             }
           ]
@@ -75,10 +75,10 @@
               "client_type": 3
             },
             {
-              "client_id": "812718640518-vrutflrubptfj1inl997k1rioe3rq1k6.apps.googleusercontent.com",
+              "client_id": "812718640518-f0s0ihsc9mqlak61o433nt8qu6ch03tl.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.challenges.app"
+                "bundle_id": "com.example.authDemo"
               }
             }
           ]
